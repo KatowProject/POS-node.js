@@ -9,3 +9,5 @@ website pos pakai node.js
 
 ### Penggunaan
 ketik di terminal `npm run start` untuk menjalankan bot-nya.
+
+<p align="center"><img src="https://cdn.discordapp.com/attachments/496983030993518592/774451876438999080/unknown.png" /></p>
